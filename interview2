@@ -1,0 +1,374 @@
+00:00:05
+Speaker 1
+Edit transcript section
+How's it started?
+00:00:07
+Speaker 2
+Not yet, I think yours is saving still.
+00:00:11
+Speaker 2
+Oh yeah, it started now.
+00:00:13
+Speaker 1
+I think it started.
+00:00:14
+Speaker 1
+Add section to document
+Uhm, so we'll begin this interview.
+00:00:17
+Speaker 1
+First, I'll thank you for participating in this interview.
+00:00:20
+Speaker 1
+Edit transcript section
+I really appreciate it.
+00:00:22
+Speaker 1
+Just to give a little bit of some background information.
+00:00:25
+Speaker 1
+Now we're trying to kind of create a product which will improve safety on campus.
+00:00:31
+Speaker 1
+And we want to.
+00:00:32
+Speaker 1
+Get feedback from actual McMaster students to see if there are, you know, any issues that haven't been properly addressed by McMaster to try and create some something for it.
+00:00:44
+Speaker 1
+But first, you mind telling me what program you're in and what your of studies are.
+00:00:48
+Speaker 2
+In yeah yeah, thank you for your time and yeah no problem.
+00:00:53
+Speaker 2
+So yeah I'm in my 4th year of computer science at McMaster University.
+00:01:00
+Speaker 1
+OK, so you're in.
+00:01:02
+Speaker 1
+4th year that means probably before classes went online like you've been on campus quite often.
+00:01:08
+Speaker 1
+Like probably almost every day for classes.
+00:01:10
+Speaker 1
+Is that correct?
+00:01:11
+Speaker 2
+Yes, even right now, uh, I go to campus like twice.
+00:01:15
+Speaker 2
+A week
+00:01:16
+Speaker 1
+OK, cool like.
+00:01:17
+Speaker 1
+For tutorials on this evening right?
+00:01:19
+Speaker 1
+Like that stuff.
+00:01:19
+Speaker 2
+One tutorial that I'm taking and one to three other I'm teaching, yes.
+00:01:26
+Speaker 1
+Nice, OK, sounds good.
+00:01:28
+Speaker 1
+So OK, so you've been on campus pretty often.
+00:01:32
+Speaker 1
+So when, when you've been on campus like have you noticed any hazards that haven't been addressed properly by McMaster, such as like icy sidewalks or dimly lit areas, or even crowded spaces like I know in student center, there's like a lot of crowded areas.
+00:01:46
+Speaker 1
+Anything of that sort.
+00:01:49
+Speaker 2
+The the one thing that is starting now that it's snowing or like raining?
+00:01:54
+Speaker 2
+Yeah I would say the icy sidewalks sometimes, but like that's like the main issue in terms of lighting like campus has really good lighting so yeah.
+00:02:08
+Speaker 1
+Uhm, is there?
+00:02:09
+Speaker 1
+Any areas on campus that you found is the most dumb I see like where they don't come like address the ice soon enough.
+00:02:21
+Speaker 2
+In terms of, I see it's just a sidewalk sometimes like they don't like like plow it properly.
+00:02:28
+Speaker 2
+That's that one time the internal rains I I noticed around bsep.
+00:02:34
+Speaker 2
+Sometimes it can be really muddy and it can be really slippery.
+00:02:38
+Speaker 2
+One time I almost slipped like public and fell.
+00:02:42
+Speaker 2
+Like right beside bsso that that would.
+00:02:45
+Speaker 2
+That was like one big safety.
+00:02:48
+Speaker 1
+Yeah, I think I know which part you're talking about.
+00:02:50
+Speaker 1
+Edit transcript section
+Is it tho area like right in front of VSP or?
+00:02:53
+Speaker 1
+Is it the one?
+00:02:53
+Speaker 1
+Bump like behind it.
+00:02:55
+Speaker 2
+Right in front of it between like BSP and males.
+00:03:00
+Speaker 1
+Between band mills.
+00:03:02
+Speaker 1
+OK yeah, I think I know which one you're.
+00:03:03
+Speaker 1
+Talking about there yeah.
+00:03:06
+Speaker 1
+OK, so just to kind of introduce an idea of our solution like we wanted to do this based on the context of like hazards on campus.
+00:03:18
+Speaker 1
+Add section to document
+We want to create an app that lets McMaster students.
+00:03:24
+Speaker 1
+Kind of report hazards.
+00:03:25
+Speaker 1
+Are you aware of an app called Waze at all?
+00:03:31
+Speaker 2
+Ways I've used it for like instead of Google Maps for driving is that.
+00:03:36
+Speaker 2
+The one that you're talking about.
+00:03:38
+Speaker 1
+Yeah, like you know the features that are in it where.
+00:03:41
+Speaker 1
+You're able to.
+00:03:42
+Speaker 1
+Report issues that you may see on the.
+00:03:44
+Speaker 1
+Road right yes and yeah, and you also can see like other people's reports as well on your map.
+00:03:52
+Speaker 1
+Yes, Yep, so we kind of want to take that idea.
+00:03:56
+Speaker 1
+Kind of like just, you know, borrow it a little and we want to have like the McMaster students who reports the incidents or the hazards like.
+00:04:06
+Speaker 1
+I wonder how those reports appear on maps of other McMaster students who are using our.
+00:04:11
+Speaker 1
+As well, when they're nearby that hazard.
+00:04:15
+Speaker 1
+Uhm, can we just you mind just telling me your initial thoughts about that or if any parts of that doesn't make sense?
+00:04:22
+Speaker 2
+I actually think that's a great idea in terms of like I've used.
+00:04:26
+Speaker 2
+Waze for example.
+00:04:26
+Speaker 2
+For like knowing if there's going to be.
+00:04:29
+Speaker 2
+Like a cop.
+00:04:30
+Speaker 2
+Car watching for like speeding tickets and stuff.
+00:04:32
+Speaker 2
+So I think, yeah, that's actually a good idea.
+00:04:35
+Speaker 2
+So like if someone is noticing an issue, they can just.
+00:04:39
+Speaker 2
+Uh, add it to the app and then everyone else.
+00:04:42
+Speaker 2
+Can see it.
+00:04:43
+Speaker 1
+Yeah, that's the idea.
+00:04:45
+Speaker 1
+Yeah, would you like if you do encounter a like a hazard on campus like?
+00:04:53
+Speaker 1
+Like the flooded area nearb like in your example like would you take the time out of your day to actually like?
+00:04:59
+Speaker 1
+Report it like.
+00:05:00
+Speaker 1
+You can be honest.
+00:05:02
+Speaker 2
+Yes, I would actually do it.
+00:05:04
+Speaker 2
+'cause I have the used waste and I've actually like added spots and also like in terms of like safety that one time I almost like like I slipped but I called myself falling right?
+00:05:16
+Speaker 2
+If I if I would have landed.
+00:05:18
+Speaker 2
+Like, uh, it would have been bad, so I personally take it seriously so I would have definitely.
+00:05:22
+Speaker 2
+Definitely added.
+00:05:24
+Speaker 2
+Yeah yeah.
+00:05:24
+Speaker 2
+Edit transcript section
+If I have known the app and like I've like heard about it I would have definitely added it.
+00:05:30
+Speaker 1
+OK, is there any way that like the reporting, can be made easiest for you 'cause?
+00:05:39
+Speaker
+'cause we need.
+00:05:40
+Speaker 1
+To like kind of, find the.
+00:05:42
+Speaker 1
+Location of where you are right like.
+00:05:44
+Speaker 1
+Would it like help?
+00:05:45
+Speaker 1
+For example, if the app found your location for you like, is there anything that can improve in that sense?
+00:05:52
+Speaker 1
+Like improve your workflow.
+00:05:57
+Speaker 1
+No, I guess.
+00:05:58
+Speaker 2
+That would be fine.
+00:05:58
+Speaker 2
+'cause like even ways for example, just like knows your location right?
+00:06:03
+Speaker 2
+And like you can add like like upcoming like like to what's coming in front of you right?
+00:06:10
+Speaker 2
+So I guess like I would allow for my location to be revealed.
+00:06:16
+Speaker 1
+OK, sounds good.
+00:06:18
+Speaker 1
+Uh, my do you think that?
+00:06:20
+Speaker 1
+If McMaster were to kind of take the data like from the app that we like generate in order to improve like campus safety, like for example if they see like 1 area of campus that gets flooded too often and then like we give them that data.
+00:06:40
+Speaker 1
+Do you think that's a little bit unethical?
+00:06:44
+Speaker 2
+No, it would be unethical if it's.
+00:06:48
+Speaker 2
+About, uh, if it would be not helping students or it would be affecting or sharing a date, some data there would be.
+00:06:57
+Speaker 2
+So, like specific to like some specific students, but in terms of just like sharing that an area is dangerous or like in terms of like safety, I think that's even like.
+00:07:13
+Speaker 2
+Required, it's not like, uhm, I just think it's a good idea.
+00:07:18
+Speaker 2
+I don't think it will be in an ethical at all.
+00:07:21
+Speaker 1
+Edit transcript section
+OK, so you think that OK if you share personal data of students, that would be unethical.
+00:07:27
+Speaker 1
+Edit transcript section
+But if it's just collecting data of like how many reports are in a certain area.
+00:07:34
+Speaker 1
+So that McMaster.
+00:07:35
+Speaker 1
+Can focus their efforts on areas that have been reported the most.
+00:07:39
+Speaker 1
+That wouldn't be unethical.
+00:07:40
+Speaker 1
+See you.
+00:07:41
+Speaker 2
+Edit transcript section
+Exactly 'cause in that case you can just remove this student like names or whatever and just share that like 10 students.
+00:07:48
+Speaker 2
+For example solve this issues.
+00:07:50
+Speaker 2
+Edit transcript section
+So I don't think that's, uh, unethical at all.
+00:07:55
+Speaker 1
+OK OK sounds good I.
+00:07:57
+Speaker 1
+Edit transcript section
+I think that's about it.
+00:07:58
+Speaker 1
+I don't want to take too much of your time.
+00:08:00
+Speaker 1
+Edit transcript section
+Thank you again for doing this.
+00:08:02
+Speaker 1
+We really appreciate your feedback.
+00:08:03
+Speaker 2
+Edit transcript section
+Yeah, no problem.
+00:08:06
+Speaker 1
+Edit transcript section
+Oh, I'm going to stop the recording now.
+00:08:08
+Speaker 2
+Then sounds good.
